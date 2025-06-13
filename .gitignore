@@ -11,5 +11,10 @@ test.csv
 sample_submition.csv
 catboost_model.cbm
 
+<<<<<<< HEAD
 # Output directory
 output/ 
+=======
+# Input directory (output files from input processing are not tracked)
+input/*
+!input/.gitkeep

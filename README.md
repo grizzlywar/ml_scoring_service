@@ -128,4 +128,3 @@
     ```bash
     docker logs $(docker ps -lq)
     ```
-    (Для Windows PowerShell может потребоваться `docker logs (docker ps -lq)`) 
