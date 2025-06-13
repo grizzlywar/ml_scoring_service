@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.vscode/
+.DS_Store
+
+# Data files (often too large for Git)
+train.csv
+test.csv
+sample_submition.csv
+catboost_model.cbm
+
+# Output directory
+output/ 
